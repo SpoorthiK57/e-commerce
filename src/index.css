@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 *{
   margin: 0;
 }
 
+=======
+>>>>>>> 58c2f42 (Initialize project using Create React App)
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -9,7 +12,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
   font-family: 'poppins';
+=======
+>>>>>>> 58c2f42 (Initialize project using Create React App)
 }
 
 code {
